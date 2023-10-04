@@ -121,6 +121,8 @@ Online Coding Platforms:
 Practice coding on platforms like Codecademy, LeetCode, or HackerRank to strengthen your programming skills.
 Solve coding challenges and participate in coding competitions to enhance problem-solving abilities.
 ---
+## Practise While Learning.
+[Practise your linux skills here...](https://cmdchallenge.com/)
 
 ## Essential Podcasts and Live Streams
 
