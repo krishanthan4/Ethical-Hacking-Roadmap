@@ -4,11 +4,11 @@ Welcome to the ultimate guide for becoming an Ethical Hacker – all for free! F
 
 If you're a complete beginner and not sure where to start, don't worry. I've prepared a comprehensive roadmap for you, complete with learning resources and free courses. There are many paths to choose from, but this roadmap is specifically tailored for those aiming to become professional bug bounty hunters and penetration testers.
 
-## [Here are the all premium courses for free .hury up and download it now.](https://github.com/krishanthan4/Ethical-Hacking-Roadmap/tcm.md)
+## [Here are the all premium courses for free .hury up !!]([https://github.com/krishanthan4/Ethical-Hacking-Roadmap/tcm.md](https://github.com/krishanthan4/Ethical-Hacking-Roadmap/blob/main/tcm.md))
 
-# Don't Skip the Fundamentals
+### Don't Skip the Fundamentals
 
-1) ## Networking Fundamentals:
+1) # Networking Fundamentals:
 Steps:
 
 - ### Introduction to Networking:
