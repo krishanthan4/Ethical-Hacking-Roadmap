@@ -157,10 +157,9 @@ You may ask me that ,why didn't you included the windows part before.As before I
 	- [John The Ripper](https://tryhackme.com/jr/johntheripper0)
 - [OSINT](https://youtu.be/qwA6MmbeGNo?feature=shared)
 	*OSINT is a Recon skill .Try this Google dork and you can find some challenges.*
-	```d
+  ```
 	OSINT challenges site:twitter.com
-```
-
+	```
 
 ### This road map is not suitable for me .what i want to do?
 obviously this will not suitable for all.so make your own one.
@@ -187,6 +186,6 @@ Now TCM Security offer a monthly subscription plan that can access all of the co
   
 - **Twitter:** [https://twitter.com/4Krishanthan/](https://twitter.com/4Krishanthan/)
   
-- **LinkedIn:** [www.linkedin.com/in/ramakrishnan-krishanthan-912b5b293](https://www.linkedin.com/in/ramakrishnan-krishanthan-912b5b293)
+- **LinkedIn:** [www.linkedin.com/in/ramakrishnan-krishanthan-8a6864241](www.linkedin.com/in/ramakrishnan-krishanthan-8a6864241)
 
 I wish you the best of luck on your incredible journey. Happy Hacking! 😊
