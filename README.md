@@ -7,7 +7,6 @@ If you're a complete beginner and not sure where to start, don't worry. I've pre
 # My Hacking Learning Resources
 
 - [TryHackMe - Best place to start Ethical Hacking](https://tryhackme.com/paths)
-- [CEH V11](https://mega.nz/folder/mOQTSCQS#NhXNE3XlL6fkGun83Yjwcw)
 - [HackTheBox Academy - use this as reference](https://academy.hackthebox.com)
 - [EC-Council Free Courses](https://codered.eccouncil.org/)
 - [TCM Security Courses](https://academy.tcm-sec.com/courses/)
