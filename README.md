@@ -46,6 +46,7 @@ there are some rooms that only for premium subscribers .just google search the l
 ### Keep these in your Bookmark List 
 - [techyricks](https://techyrick.com/category/hacking-tools-download/information-gathering/)
 - [Hacktricks](https://book.hacktricks.xyz/welcome/readme)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [ExplainShell - Helps understand command-line arguments](https://explainshell.com/)
 - [GTFOBins - Unix binaries that can be exploited](https://gtfobins.github.io/)
